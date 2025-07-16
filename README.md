@@ -17,7 +17,6 @@
 <!-- live preview links -->
 
 [admin-panel-link]: https://admin-beach-resort.vercel.app
-[frontend-link]: https://mukul-beach-resort.vercel.app
 
 <p align="center">
   <strong> HAPPY DEVELOPMENT 😀 & I LOVE PROGRAMMING 💖 </strong>
